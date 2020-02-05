@@ -112,6 +112,7 @@ section .result-list .movie {
 
 section .result-list .movie .cover {
     position: relative;
+    height: 290px;
 }
 
 section .result-list .movie .cover img {
